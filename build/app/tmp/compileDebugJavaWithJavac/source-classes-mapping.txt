@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/whiterabibit/app/employee_directory/BuildConfig.java
+ com.whiterabibit.app.employee_directory.BuildConfig
